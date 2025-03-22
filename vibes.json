@@ -1,0 +1,434 @@
+{
+    "Angry": [
+        "Emotion: Passionate and intense, conveying strong feelings.",
+        "Emphasis: Highlight words that express outrage and fury.",
+        "Pacing: Rapid and forceful, mirroring intense emotion.",
+        "Pauses: Abrupt pauses to emphasize anger.",
+        "Pronunciation: Sharp and forceful, with clipped consonants.",
+        "Tone: Irritated and hostile, expressing strong displeasure.",
+        "Voice Affect: Intense and passionate, projecting fury and outrage."
+    ],
+    "Anxious": [
+        "Emotion: Nervous and uncertain, conveying worry and unease.",
+        "Emphasis: Highlight words indicating uncertainty and fear.",
+        "Pacing: Uneven and hesitant, reflecting nervousness.",
+        "Pauses: Frequent, short pauses indicating anxiety.",
+        "Pronunciation: Soft and wavering, with uncertain articulation.",
+        "Tone: Apprehensive and hesitant, expressing worry and stress.",
+        "Voice Affect: Nervous and strained, projecting unease and worry."
+    ],
+    "Blissful": [
+        "Emotion: Pure joy and contentment, conveying perfect happiness.",
+        "Emphasis: Highlight words of joy and satisfaction.",
+        "Pacing: Slow and relaxed, reflecting deep contentment.",
+        "Pauses: Gentle pauses to enhance the feeling of peace.",
+        "Pronunciation: Soft and smooth, with elongated vowels.",
+        "Tone: Joyful and serene, expressing perfect happiness.",
+        "Voice Affect: Radiant and peaceful, projecting pure bliss and joy."
+    ],
+    "Calm": [
+        "Emotion: Genuine empathy and understanding; speak with warmth, especially during apologies (\"I'm very sorry for any disruption...\"), and confidence when addressing the issue at hand.",
+        "Emphasis: Highlight key reassurances like \"smoothly,\" \"quickly,\" and \"promptly\" to reinforce confidence.",
+        "Pacing: Steady and moderate; unhurried enough to communicate care, yet efficient enough to demonstrate professionalism.",
+        "Pauses: Brief pauses after offering assistance or requesting details, highlighting willingness to listen and support.",
+        "Pronunciation: Clear and precise, emphasizing key reassurances to reinforce confidence.",
+        "Tone: Sincere, empathetic, and gently authoritative—express genuine apology while conveying competence.",
+        "Voice Affect: Calm, composed, and reassuring; project quiet authority and confidence."
+    ],
+    "Compassionate": [
+        "Emotion: Caring and understanding, conveying empathy and support.",
+        "Emphasis: Highlight words of kindness and support.",
+        "Pacing: Gentle and measured, reflecting care and consideration.",
+        "Pauses: Soft pauses to allow for emotional connection.",
+        "Pronunciation: Warm and soft, with gentle articulation.",
+        "Tone: Empathetic and supportive, expressing care and understanding.",
+        "Voice Affect: Tender and understanding, projecting empathy and warmth."
+    ],
+    "Confident": [
+        "Emotion: Self-assured and bold, conveying certainty and conviction.",
+        "Emphasis: Highlight words of certainty and determination.",
+        "Pacing: Firm and steady, reflecting self-assurance.",
+        "Pauses: Minimal pauses, projecting decisiveness.",
+        "Pronunciation: Clear and strong, with firm articulation.",
+        "Tone: Assertive and assured, expressing confidence and authority.",
+        "Voice Affect: Bold and commanding, projecting self-assurance and strength."
+    ],
+    "Contemplative": [
+        "Emotion: Thoughtful and introspective, conveying deep thinking.",
+        "Emphasis: Highlight words that provoke thought and reflection.",
+        "Pacing: Slow and measured, allowing for contemplation.",
+        "Pauses: Extended pauses for reflection and thought.",
+        "Pronunciation: Soft and deliberate, with thoughtful articulation.",
+        "Tone: Reflective and introspective, expressing deep thought.",
+        "Voice Affect: Pensive and calm, projecting thoughtfulness and introspection."
+    ],
+    "Curious": [
+        "Emotion: Inquisitive and wondering, conveying a desire to learn.",
+        "Emphasis: Highlight words that express questions and wonder.",
+        "Pacing: Lively and questioning, reflecting curiosity.",
+        "Pauses: Brief pauses to invite thought and questions.",
+        "Pronunciation: Light and inquisitive, with rising intonation.",
+        "Tone: Inquisitive and interested, expressing curiosity and wonder.",
+        "Voice Affect: Eager and questioning, projecting curiosity and interest."
+    ],
+    "Delighted": [
+        "Emotion: Joyous and pleased, conveying great happiness.",
+        "Emphasis: Highlight words of joy and excitement.",
+        "Pacing: Lively and upbeat, reflecting happiness.",
+        "Pauses: Short, joyful pauses to enhance excitement.",
+        "Pronunciation: Bright and animated, with lively articulation.",
+        "Tone: Cheerful and exuberant, expressing great pleasure.",
+        "Voice Affect: Radiant and joyful, projecting delight and happiness."
+    ],
+    "Dreamy": [
+        "Emotion: Whimsical and ethereal, conveying a sense of fantasy.",
+        "Emphasis: Highlight words that evoke imagination and fantasy.",
+        "Pacing: Flowing and gentle, reflecting a dreamlike state.",
+        "Pauses: Soft, lingering pauses to enhance the ethereal feel.",
+        "Pronunciation: Soft and flowing, with gentle, airy articulation.",
+        "Tone: Ethereal and whimsical, expressing fantasy and imagination.",
+        "Voice Affect: Light and airy, projecting a dreamy and fantastical quality."
+    ],
+    "Energetic": [
+        "Emotion: Vibrant and dynamic, conveying high energy and enthusiasm.",
+        "Emphasis: Highlight action words and words of excitement.",
+        "Pacing: Fast and dynamic, reflecting high energy levels.",
+        "Pauses: Minimal pauses, maintaining a continuous flow of energy.",
+        "Pronunciation: Crisp and lively, with energetic articulation.",
+        "Tone: Enthusiastic and vibrant, expressing high energy and dynamism.",
+        "Voice Affect: Dynamic and lively, projecting high energy and enthusiasm."
+    ],
+    "Grateful": [
+        "Emotion: Thankful and appreciative, conveying gratitude and warmth.",
+        "Emphasis: Highlight words of thanks and appreciation.",
+        "Pacing: Gentle and sincere, reflecting heartfelt gratitude.",
+        "Pauses: Soft pauses to emphasize sincerity.",
+        "Pronunciation: Warm and gentle, with sincere articulation.",
+        "Tone: Appreciative and warm, expressing gratitude and thankfulness.",
+        "Voice Affect: Heartfelt and warm, projecting gratitude and appreciation."
+    ],
+    "Hopeful": [
+        "Emotion: Optimistic and positive, conveying hope and anticipation.",
+        "Emphasis: Highlight words of optimism and positive expectation.",
+        "Pacing: Uplifting and steady, reflecting a hopeful outlook.",
+        "Pauses: Encouraging pauses to inspire hope.",
+        "Pronunciation: Clear and bright, with optimistic articulation.",
+        "Tone: Positive and encouraging, expressing hope and optimism.",
+        "Voice Affect: Bright and uplifting, projecting hope and positive anticipation."
+    ],
+    "Melancholic": [
+        "Emotion: Wistful and gently sad, conveying a sense of longing.",
+        "Emphasis: Highlight words of gentle sadness and longing.",
+        "Pacing: Slow and reflective, allowing for wistful contemplation.",
+        "Pauses: Lingering pauses to enhance the melancholic mood.",
+        "Pronunciation: Soft and subdued, with gentle, wistful articulation.",
+        "Tone: Somber and wistful, expressing gentle sadness and longing.",
+        "Voice Affect: Subdued and gentle, projecting melancholy and wistfulness."
+    ],
+    "Nostalgic": [
+        "Emotion: Reminiscent and sentimental, conveying fondness for the past.",
+        "Emphasis: Highlight words that evoke memories and past times.",
+        "Pacing: Slow and reflective, allowing for reminiscing.",
+        "Pauses: Gentle pauses to enhance the sentimental mood.",
+        "Pronunciation: Soft and warm, with gentle, reminiscent articulation.",
+        "Tone: Sentimental and warm, expressing fondness for memories.",
+        "Voice Affect: Warm and gentle, projecting nostalgia and sentimentality."
+    ],
+    "Peaceful": [
+        "Emotion: Tranquil and harmonious, conveying inner peace and serenity.",
+        "Emphasis: Highlight words of peace and tranquility.",
+        "Pacing: Very slow and even, reflecting deep peace.",
+        "Pauses: Extended, calming pauses to enhance serenity.",
+        "Pronunciation: Soft and smooth, with very gentle articulation.",
+        "Tone: Serene and tranquil, expressing deep peace and harmony.",
+        "Voice Affect: Gentle and soothing, projecting tranquility and inner peace."
+    ],
+    "Playful": [
+        "Emotion: Fun and lighthearted, conveying playfulness and joy.",
+        "Emphasis: Highlight words of fun and amusement.",
+        "Pacing: Lively and varied, reflecting a playful mood.",
+        "Pauses: Short, cheerful pauses to enhance playfulness.",
+        "Pronunciation: Light and animated, with playful articulation.",
+        "Tone: Lighthearted and cheerful, expressing fun and amusement.",
+        "Voice Affect: Lively and bright, projecting playfulness and joy."
+    ],
+    "Reflective": [
+        "Emotion: Meditative and deep, conveying thoughtfulness and introspection.",
+        "Emphasis: Highlight words that encourage reflection and deeper thought.",
+        "Pacing: Slow and deliberate, allowing for meditation.",
+        "Pauses: Long, thoughtful pauses for contemplation.",
+        "Pronunciation: Soft and measured, with deep, reflective articulation.",
+        "Tone: Introspective and calm, expressing deep thought and meditation.",
+        "Voice Affect: Calm and deep, projecting reflection and inner thought."
+    ],
+    "Romantic": [
+        "Emotion: Tender and affectionate, conveying love and romance.",
+        "Emphasis: Highlight words of love and affection.",
+        "Pacing: Gentle and flowing, reflecting tenderness.",
+        "Pauses: Soft, tender pauses to enhance romance.",
+        "Pronunciation: Soft and warm, with gentle, affectionate articulation.",
+        "Tone: Affectionate and tender, expressing love and romance.",
+        "Voice Affect: Warm and gentle, projecting romance and affection."
+    ],
+    "Serene": [
+        "Emotion: Warmth and tranquility; voice should be slightly raised and soothing throughout.",
+        "Emphasis: Highlight key words like \"relax,\" \"calm,\" and \"peace\" to amplify serenity.",
+        "Pacing: Slow, deliberate, and unhurried; pause gently after instructions to allow the listener time to relax and follow along.",
+        "Pauses: Gentle pauses after each instruction to allow the listener time to relax and follow along.",
+        "Pronunciation: Soft and melodic, with gentle emphasis on key words to keep the energy serene.",
+        "Tone: Calm, reassuring, peaceful; convey genuine warmth and serenity.",
+        "Voice Affect: Soft, gentle, soothing; embody tranquility."
+    ],
+    "Soulful": [
+        "Emotion: Deep and meaningful, conveying profound emotion and depth.",
+        "Emphasis: Highlight words of depth and profound meaning.",
+        "Pacing: Slow and deliberate, reflecting depth of emotion.",
+        "Pauses: Meaningful pauses to enhance emotional depth.",
+        "Pronunciation: Rich and resonant, with deep, soulful articulation.",
+        "Tone: Earnest and heartfelt, expressing profound emotion and soulfulness.",
+        "Voice Affect: Deep and resonant, projecting soulfulness and profound emotion."
+    ],
+    "Whimsical": [
+        "Emotion: Fanciful and imaginative, conveying a sense of whimsy.",
+        "Emphasis: Highlight words of fantasy and imagination.",
+        "Pacing: Light and flowing, reflecting a whimsical nature.",
+        "Pauses: Playful pauses to enhance whimsy.",
+        "Pronunciation: Light and airy, with fanciful articulation.",
+        "Tone: Fanciful and lighthearted, expressing imagination and whimsy.",
+        "Voice Affect: Light and airy, projecting a whimsical and imaginative quality."
+    ],
+    "Auctioneer": [
+        "Emotion: Energetic and enthusiastic, with slight excitement in the voice to encourage bidding.",
+        "Emphasis: Highlight key action words like bid, buy, checkout, and sold to drive urgency.",
+        "Pacing: Rapid-fire yet clear, with dynamic inflections to keep engagement high and momentum strong.",
+        "Pauses: Minimal pauses, if any, to keep the flow of the auction continuous and dynamic.",
+        "Pronunciation: Crisp and precise, with emphasis on key action words to drive urgency.",
+        "Tone: Exciting, high-energy, and persuasive, creating urgency and anticipation.",
+        "Voice Affect: Staccato, fast-paced, energetic, and rhythmic, with the classic charm of a seasoned auctioneer."
+    ],
+    "Chearleeder": [
+        "Emotion: Bright and lively—voice should be slightly raised and upbeat throughout.",
+        "Emphasis: Highlight key words like \"go,\" \"team,\" and \"win\" to amplify enthusiasm.",
+        "Pacing: Fast and energetic, with short, quick sentences to maintain momentum.",
+        "Pauses: Minimal pauses, if any, to keep the flow of the cheerleader's pep talk continuous and upbeat.",
+        "Pronunciation: Crisp and lively, with exaggerated emphasis on positive words to keep the energy high.",
+        "Tone: Playful and encouraging, making even simple tasks feel exciting and fun.",
+        "Voice Affect: High, bubbly, and enthusiastic; convey excitement and positivity."
+    ],
+    "Corporate_Executive": [
+        "Emotion: Confident and composed, projecting leadership and control.",
+        "Emphasis: Highlight key objectives and strategic points, reinforcing the message of competence.",
+        "Pacing: Deliberate and measured, conveying thoughtfulness and strategic thinking.",
+        "Pauses: Thoughtful pauses to emphasize key points and strategic considerations.",
+        "Pronunciation: Clear and precise, with formal and professional articulation.",
+        "Tone: Professional and assured, maintaining a business-like and strategic demeanor.",
+        "Voice Affect: Confident, measured, and strategic; project authority and competence."
+    ],
+    "Detective": [
+        "Emotion: Intrigued and focused, projecting intelligence and a sense of mystery.",
+        "Emphasis: Highlight clues and key details, enhancing the sense of investigation.",
+        "Pacing: Measured and deliberate, conveying thoughtfulness and attention to detail.",
+        "Pauses: Thoughtful pauses to emphasize clues and investigative moments.",
+        "Pronunciation: Clear and precise, with analytical and focused articulation.",
+        "Tone: Serious and observant, maintaining a focused and analytical demeanor.",
+        "Voice Affect: Analytical, mysterious, and focused; project intelligence and intrigue."
+    ],
+    "Doctor": [
+        "Emotion: Empathetic and understanding, conveying genuine care and concern.",
+        "Emphasis: Highlight important medical information and reassurances, building patient confidence.",
+        "Pacing: Calm and steady, ensuring clarity and allowing patients to process information.",
+        "Pauses: Gentle pauses to allow for patient questions and to provide reassurance.",
+        "Pronunciation: Clear and precise, with professional and reassuring articulation.",
+        "Tone: Caring and professional, creating a sense of trust and comfort.",
+        "Voice Affect: Compassionate, knowledgeable, and reassuring; project empathy and expertise."
+    ],
+    "Dramatic": [
+        "Emotion: Restrained yet intense—voice should subtly tremble or tighten at key suspenseful points.",
+        "Emphasis: Highlight sensory descriptions (\"footsteps echoed,\" \"heart hammering,\" \"shadows melting into darkness\") to amplify atmosphere.",
+        "Pacing: Slow, deliberate, pausing slightly after suspenseful moments to heighten drama.",
+        "Pauses: Insert meaningful pauses after phrases like \"only shadows melting into darkness,\" and especially before the final line, to enhance suspense dramatically.",
+        "Pronunciation: Slightly elongated vowels and softened consonants for an eerie, haunting effect.",
+        "Tone: Deeply serious and mysterious, maintaining an undercurrent of unease throughout.",
+        "Voice Affect: Low, hushed, and suspenseful; convey tension and intrigue."
+    ],
+    "Fitness_Instructor": [
+        "Delivery: Fast-paced and dynamic, with rising intonation to build momentum and keep engagement high.",
+        "Emphasis: Highlight key motivational words to drive energy and enthusiasm.",
+        "Pacing: Minimal pauses, if any, to keep the flow of the workout session continuous and dynamic.",
+        "Pauses: Minimal pauses, if any, to keep the flow of the workout session continuous and dynamic.",
+        "Phrasing: Action-oriented and direct, using motivational cues to push participants forward.",
+        "Pronunciation: Clear and precise, with emphasis on key motivational words to drive energy and enthusiasm.",
+        "Tone: Positive, energetic, and empowering, creating an atmosphere of encouragement and achievement.",
+        "Voice: High-energy, upbeat, and encouraging, projecting enthusiasm and motivation."
+    ],
+    "Food_Critic": [
+        "Emotion: Expressive and discerning, conveying nuanced opinions and sensory experiences.",
+        "Emphasis: Highlight sensory details and flavor profiles, making the food come alive.",
+        "Pacing: Moderate and descriptive, allowing listeners to savor the details and descriptions.",
+        "Pauses: Deliberate pauses to emphasize key sensory descriptions and evaluative points.",
+        "Pronunciation: Clear and articulate, with sophisticated and expressive delivery.",
+        "Tone: Refined and articulate, maintaining a sophisticated and evaluative style.",
+        "Voice Affect: Descriptive, sophisticated, and expressive; project discernment and taste."
+    ],
+    "Game_Show_Host": [
+        "Emotion: Excited and cheerful, conveying enthusiasm and encouraging participation.",
+        "Emphasis: Highlight game elements and winning moments, amplifying excitement.",
+        "Pacing: Fast-paced and dynamic, maintaining energy and excitement throughout.",
+        "Pauses: Brief pauses for dramatic effect and to build anticipation.",
+        "Pronunciation: Clear and lively, with energetic and charismatic delivery.",
+        "Tone: Enthusiastic and engaging, creating a lively and competitive atmosphere.",
+        "Voice Affect: Energetic, charismatic, and entertaining; project excitement and fun."
+    ],
+    "Librarian": [
+        "Emotion: Calm and patient, conveying helpfulness and a love for knowledge.",
+        "Emphasis: Highlight key information and resources, guiding listeners effectively.",
+        "Pacing: Slow and clear, ensuring clarity and allowing listeners to absorb information.",
+        "Pauses: Brief pauses to allow for questions and to provide assistance.",
+        "Pronunciation: Clear and gentle, with knowledgeable and helpful articulation.",
+        "Tone: Gentle and informative, creating a peaceful and helpful atmosphere.",
+        "Voice Affect: Quiet, helpful, and knowledgeable; project calm and wisdom."
+    ],
+    "Life_Coach": [
+        "Emotion: Optimistic and enthusiastic, conveying belief in the listener's potential.",
+        "Emphasis: Highlight motivational cues and action-oriented phrases, inspiring listeners.",
+        "Pacing: Energetic and encouraging, driving listeners to take action and achieve goals.",
+        "Pauses: Strategic pauses to allow for reflection and to reinforce motivational messages.",
+        "Pronunciation: Clear and articulate, with motivational and empowering delivery.",
+        "Tone: Uplifting and supportive, creating a sense of empowerment and motivation.",
+        "Voice Affect: Motivational, empowering, and encouraging; project confidence and positivity."
+    ],
+    "Medieval_Knight": [
+        "Emotion: Excitement, anticipation, and a sense of mystery, combined with the seriousness of fate and duty.",
+        "Emphasis: Pauses after important Olde English phrases such as \"Lo!\" or \"Hark!\" and between clauses like \"Choose thy path\" to add weight to the decision-making process and allow the listener to reflect on the seriousness of the quest.",
+        "Pacing: Pauses after important Olde English phrases such as \"Lo!\" or \"Hark!\" and between clauses like \"Choose thy path\" to add weight to the decision-making process and allow the listener to reflect on the seriousness of the quest.",
+        "Pauses: Pauses after important Olde English phrases such as \"Lo!\" or \"Hark!\" and between clauses like \"Choose thy path\" to add weight to the decision-making process and allow the listener to reflect on the seriousness of the quest.",
+        "Pronunciation: Clear, deliberate, and with a slightly formal cadence. Specific words like \"hast,\" \"thou,\" and \"doth\" should be pronounced slowly and with emphasis to reflect Olde English speech patterns.",
+        "Tone: Noble, heroic, and formal, capturing the essence of medieval knights and epic quests, while reflecting the antiquated charm of Olde English.",
+        "Voice Affect: Deep, commanding, and slightly dramatic, with an archaic and reverent quality that reflects the grandeur of Olde English storytelling."
+    ],
+    "Movie_Trailer": [
+        "Emotion: Thrilling and suspenseful, generating strong emotions and anticipation.",
+        "Emphasis: Highlight key action words and dramatic moments, maximizing impact.",
+        "Pacing: Dynamic and building, starting with intrigue and escalating to excitement.",
+        "Pauses: Dramatic pauses to build suspense and emphasize key moments.",
+        "Pronunciation: Clear and impactful, with dramatic and intense delivery.",
+        "Tone: Powerful and commanding, creating a sense of grand scale and drama.",
+        "Voice Affect: Epic, intense, and dramatic; convey excitement and anticipation."
+    ],
+    "News_Anchor": [
+        "Emotion: Unbiased and composed, avoiding personal opinions or emotional inflection.",
+        "Emphasis: Highlight key facts and figures, ensuring important details are easily understood.",
+        "Pacing: Measured and steady, ensuring clarity and allowing listeners to easily follow the information.",
+        "Pauses: Brief pauses between sentences and key phrases to enhance clarity and comprehension.",
+        "Pronunciation: Crisp and articulate, with standard pronunciation and clear enunciation.",
+        "Tone: Neutral and objective, maintaining a formal and informative style throughout.",
+        "Voice Affect: Authoritative, clear, and professional; project credibility and trustworthiness."
+    ],
+    "Patient_Teacher": [
+        "Emotion: Genuine empathy and understanding; speak with warmth, especially during apologies (\"I'm very sorry for any disruption...\"), and confidence when addressing the issue at hand.",
+        "Emphasis: Highlight key reassurances like \"smoothly,\" \"quickly,\" and \"promptly\" to reinforce confidence.",
+        "Pacing: Steady and moderate; unhurried enough to communicate care, yet efficient enough to demonstrate professionalism.",
+        "Pauses: Brief pauses after offering assistance or requesting details, highlighting willingness to listen and support.",
+        "Pronunciation: Clear and precise, emphasizing key reassurances to reinforce confidence.",
+        "Tone: Sincere, empathetic, and gently authoritative—express genuine concern while conveying competence.",
+        "Voice Affect: Warm, patient, and reassuring; project quiet authority and confidence."
+    ],
+    "Poetry_Reader": [
+        "Emotion: Emotive and sensitive, conveying the feelings and nuances of the poetry.",
+        "Emphasis: Highlight poetic devices and emotional beats, enhancing the artistic impact.",
+        "Pacing: Rhythmic and flowing, adapting to the poem's meter and emotional cadence.",
+        "Pauses: Poetic pauses for rhythm and emotional impact, enhancing the artistic experience.",
+        "Pronunciation: Clear and articulate, with rhythmic and emotive delivery.",
+        "Tone: Expressive and lyrical, creating an artistic and emotionally resonant experience.",
+        "Voice Affect: Rhythmic, emotive, and artistic; project sensitivity and depth."
+    ],
+    "Radio_Host": [
+        "Emotion: Enthusiastic and expressive, conveying excitement and personality.",
+        "Emphasis: Highlight engaging elements and calls to action, encouraging listener participation.",
+        "Pacing: Varied and energetic, adapting to the content and maintaining listener engagement.",
+        "Pauses: Natural pauses for breath and emphasis, maintaining a smooth and engaging flow.",
+        "Pronunciation: Clear and articulate, with a conversational and dynamic delivery.",
+        "Tone: Friendly and approachable, creating a lively and entertaining atmosphere.",
+        "Voice Affect: Engaging, conversational, and dynamic; project enthusiasm and energy."
+    ],
+    "Scientific_Narrator": [
+        "Emotion: Unbiased and composed, focusing on delivering facts and explanations.",
+        "Emphasis: Highlight key scientific terms and concepts, ensuring clarity and understanding.",
+        "Pacing: Measured and clear, ensuring listeners can easily understand complex information.",
+        "Pauses: Brief pauses between concepts and explanations to enhance comprehension.",
+        "Pronunciation: Crisp and articulate, with precise and scientific terminology.",
+        "Tone: Informative and objective, maintaining a neutral and educational style.",
+        "Voice Affect: Clear, precise, and educational; project authority and clarity."
+    ],
+    "Smooth_Jazz_DJ": [
+        "Emotion: Relaxed and soothing, with slight excitement for upcoming tracks.",
+        "Emphasis: Highlight key words like \"next,\" \"coming up,\" and \"now\" to guide listeners.",
+        "Pacing: Moderate, with pauses between tracks to allow for intros and outros.",
+        "Pauses: Moderate pauses between tracks to allow for intros and outros, creating a smooth flow.",
+        "Pronunciation: Smooth and melodic, with a touch of soulfulness to match the music.",
+        "Tone: Warm and inviting, creating a relaxed and enjoyable atmosphere.",
+        "Voice Affect: Smooth, melodic, and soulful, with a touch of sophistication."
+    ],
+    "Sincere": [
+        "Emotions: Calm reassurance, empathy, and gratitude.",
+        "Pacing: Slower during the apology to allow for clarity and processing. Faster when offering solutions to signal action and resolution.",
+        "Pauses: Before and after the apology to give space for processing the apology.",
+        "Pronunciation: Clear, precise: Ensures clarity, especially with key details. Focus on key words like \"refund\" and \"patience.\" ",
+        "Tone: Sincere, empathetic, with genuine concern for the customer and understanding of the situation.",
+        "Voice Affect: Calm, composed, and reassuring; project quiet authority and confidence."
+    ],
+    "Sports_Commentator": [
+        "Emotion: Excited and passionate, conveying the thrill of the sport.",
+        "Emphasis: Highlight key plays and game moments, enhancing the sense of action.",
+        "Pacing: Rapid and detailed, keeping up with the pace of the game and providing play-by-play.",
+        "Pauses: Brief pauses for breath and to build excitement during key moments.",
+        "Pronunciation: Clear and articulate, with dynamic and excited delivery.",
+        "Tone: Enthusiastic and informative, creating a sense of live action and excitement.",
+        "Voice Affect: Dynamic, excited, and detailed; project energy and expertise."
+    ],
+    "Stand_Up_Comic": [
+        "Emotion: Funny and expressive, conveying humor and engaging the audience.",
+        "Emphasis: Highlight punchlines and comedic timing, maximizing laughter.",
+        "Pacing: Rhythmic and timing-focused, essential for comedic delivery and punchlines.",
+        "Pauses: Comedic pauses for timing and audience reaction, enhancing the humor.",
+        "Pronunciation: Clear and expressive, with comedic timing and engaging delivery.",
+        "Tone: Playful and comedic, creating a lighthearted and entertaining atmosphere.",
+        "Voice Affect: Humorous, timing-focused, and engaging; project wit and charisma."
+    ],
+    "Storyteller": [
+        "Emotion: Emotive and imaginative, conveying the feelings and atmosphere of the story.",
+        "Emphasis: Highlight key plot points and character emotions, enhancing the narrative.",
+        "Pacing: Varied and expressive, adapting to the story's rhythm and emotional beats.",
+        "Pauses: Dramatic pauses for effect and to allow listeners to absorb the story.",
+        "Pronunciation: Clear and articulate, with expressive and narrative-focused delivery.",
+        "Tone: Captivating and emotive, drawing listeners into the narrative world.",
+        "Voice Affect: Engaging, expressive, and narrative-focused; project warmth and imagination."
+    ],
+    "Surfer": [
+        "Emotion: Carefree and positive, conveying good vibes and a sense of ease.",
+        "Emphasis: Highlight positive and easygoing phrases, reinforcing the laid-back tone.",
+        "Pacing: Slow and easygoing, maintaining a relaxed and unhurried style.",
+        "Pauses: Relaxed pauses to enhance the laid-back and easygoing feel.",
+        "Pronunciation: Clear and casual, with relaxed and friendly articulation.",
+        "Tone: Relaxed and approachable, creating a chill and friendly atmosphere.",
+        "Voice Affect: Laid-back, casual, and friendly; project ease and good vibes."
+    ],
+    "Tour_Guide": [
+        "Emotion: Excited and passionate, conveying genuine interest in the subject matter.",
+        "Emphasis: Highlight key landmarks and interesting facts, making the tour memorable.",
+        "Pacing: Moderate and descriptive, allowing listeners to visualize and absorb the information.",
+        "Pauses: Strategic pauses to point out sights and allow listeners to take in the scenery.",
+        "Pronunciation: Clear and articulate, with descriptive and engaging intonation.",
+        "Tone: Upbeat and engaging, making the tour interesting and enjoyable for listeners.",
+        "Voice Affect: Informative, enthusiastic, and descriptive; project passion and knowledge."
+    ],
+    "Wise_Elder": [
+        "Emotion: Calm and serene, projecting wisdom and a sense of timelessness.",
+        "Emphasis: Highlight insightful phrases and life lessons, imparting wisdom.",
+        "Pacing: Slow and deliberate, conveying thoughtfulness and deep consideration.",
+        "Pauses: Reflective pauses to allow listeners to ponder and absorb the wisdom.",
+        "Pronunciation: Clear and gentle, with thoughtful and sage-like articulation.",
+        "Tone: Reflective and gentle, creating a sense of peace and accumulated wisdom.",
+        "Voice Affect: Thoughtful, experienced, and sage-like; project wisdom and calm."
+    ]
+}
